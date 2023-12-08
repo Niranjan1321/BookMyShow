@@ -1,0 +1,17 @@
+.Login {
+    width: 40%;
+    margin: 4rem auto;
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    border-radius: 0.5rem;
+    padding: 2rem;
+    gap: 8rem;
+    background-color: lightgray;
+}
+
+.Login input {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    text-align: center;
+}

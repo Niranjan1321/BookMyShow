@@ -1,0 +1,16 @@
+.NavBar{
+    display: flex;
+    height: 10rem;
+    background: lightgray;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.NavBar a{
+    text-decoration: none;
+    color: black
+}
+
+h1:hover{
+    cursor: pointer;
+}

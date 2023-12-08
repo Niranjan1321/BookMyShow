@@ -1,0 +1,5 @@
+export const AUTH_CHECK = "AUTH_CHECK"
+export const MOVIES_LIST = "MOVIES_LIST"
+export const MOVIE_DETAILS = "MOVIE_DETAILS"
+export const BOOKINGS_DETAILS = "BOOKINGS_DETAILS"
+export const SET_LOADING = "SETLOADING"

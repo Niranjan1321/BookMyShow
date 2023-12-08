@@ -1,0 +1,14 @@
+.MovieDetails{
+    margin: 5rem auto;
+    background: lightgray;
+    width: 60%;
+    padding: 1rem;
+    border-radius: 1rem;
+    
+}
+
+.MovieDetails img {
+    border-radius: 0.5rem;
+    height: 500px;
+    width: 90%;
+}

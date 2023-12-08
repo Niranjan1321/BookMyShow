@@ -1,0 +1,31 @@
+.Bookings{
+    display: flex;
+    width: 75%;
+    margin: 5rem auto;
+    gap: 1rem;
+    padding: 1rem;
+    background: white; 
+    border-radius: 8px;
+    padding: 2rem;
+    /* background: teal; */
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    flex-wrap: wrap;
+}
+
+.Booking{
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    background: grey;
+}
+
+.Booking :hover {
+background: blue;
+}
+
+
+.Bookings :hover {
+    background: yellow;
+} 
